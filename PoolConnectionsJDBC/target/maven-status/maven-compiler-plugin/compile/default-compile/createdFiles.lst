@@ -1,0 +1,6 @@
+datosJDBC/PersonaDAO.class
+datosJDBC/Conexionjdbc.class
+tablaDB/PersonaDTO.class
+datosJDBC/PersonaDaoJDBC.class
+testJDBC/TestManejoPersonas.class
+testJDBC/TestMysqlJDBC.class
